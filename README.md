@@ -1,1 +1,3 @@
-# Travel_planer_using_graphs
+# Travel_planer_using_graphs4
+A travel planner that calculates the optimal travel route by plane or bus based on Dijkstra's famous graph algorithm
+
